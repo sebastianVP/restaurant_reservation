@@ -1,4 +1,4 @@
-#**PROYECTOS CON PYTHONS**
+**PROYECTOS CON PYTHON**
 ---
 
 - Nombre del  Alumno: Alexander Valdez
